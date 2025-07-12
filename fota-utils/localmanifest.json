@@ -1,0 +1,40 @@
+[
+    {
+        "architecture": "linux/arm64",
+        "description": "Resolve startup issues in Adaptive Cruise Control by ensuring proper sensor initialization ",
+        "ecuid": "00",
+        "name": "central",
+        "state": "scheduled",
+        "version": "7.3.4"
+    },
+    {
+        "architecture": "linux/arm/v7",
+        "description": "Enhance the realism of Automatic Braking Control systems by improving sensor accuracy",
+        "ecuid": "01",
+        "name": "front",
+        "state": "scheduled",
+        "version": "6.5.6"
+    },
+    {
+        "architecture": "linux/arm/v7",
+        "description": "Improve the realism of Automatic Braking Control within the SDF stack",
+        "ecuid": "02",
+        "name": "rear",
+        "state": "scheduled",
+        "version": "2.7.3"
+    },
+    {
+        "description": "Enhance AFS realism by improving response to speed, steering, and ambient.",
+        "ecuid": "11",
+        "name": "afs",
+        "state": "scheduled",
+        "version": "8.7.7"
+    },
+    {
+        "description": "Improve motor control realism by refining torque response",
+        "ecuid": "12",
+        "name": "motorcontrol",
+        "state": "scheduled",
+        "version": "3.7.8"
+    }
+]

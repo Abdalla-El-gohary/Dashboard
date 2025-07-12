@@ -1,0 +1,7 @@
+{
+    "front": "localhost",
+    "rear": "localhost",
+    "afs": "localhost",
+    "motorcontrol": "localhost",
+    "central": "localhost"
+}

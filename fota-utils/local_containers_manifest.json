@@ -1,0 +1,73 @@
+[
+    {
+        "digest": "sha256:2fdf362d5181514b0733e836a3beeb186c132e37fd7805bed4b811d4997a78e7",
+        "name": "central-acc",
+        "tags": [
+            "v7.1.1",
+            "v7.1.0",
+            "v6.9.9"
+        ]
+    },
+    {
+        "digest": "sha256:8730809dd4b398ee0b41d4e2f1e562c97d0ab796c866868e5a3743f1d0e35e5e",
+        "name": "central-bbs",
+        "tags": [
+        ]
+    },
+    {
+        "digest": "sha256:787e7602c842da7b1762d35cc4381b8201108c94a7a50732a14dd69f8475bd2f",
+        "name": "central-msn",
+        "tags": [
+            "v7.1.1"
+        ]
+    },
+    {
+        "digest": "sha256:6fbd9623336842430296d53c039ab7fdf6aaf2092ffbbbaadca1e6ee099b0e38",
+        "name": "front-abc",
+        "tags": [
+            "v5.5.1"
+        ]
+    },
+    {
+        "digest": "sha256:b0a097ffef9c128166e4cd2a3991b1dd74bbf1b1f2273f6d0f1eb68fce4f1403",
+        "name": "front-abb",
+        "tags": [
+            "v5.5.1",
+            "v5.4.9"
+        ]
+    },
+    {
+        "digest": "sha256:b4b06aa637343fd134268a4dfd1c0cd197081d0e5474a90a4d3b19c8b109c0ec",
+        "name": "front-cde",
+        "tags": [
+            "v5.5.1",
+            "v5.4.9",
+            "v5.4.8",
+            "v5.2.7"
+        ]
+    },
+    {
+        "digest": "sha256:63b2f2a4506d27bf8c0b4e95bc7c39959b228e62b55ff0ca76984a3ed1546791",
+        "name": "rear-sdf",
+        "tags": [
+            "v2.6.9"
+        ]
+    },
+    {
+        "digest": "sha256:df6211b72c36028aa152165b92091c2981314d68452bb12645e799c213d229be",
+        "name": "rear-xyz",
+        "tags": [
+            "v2.6.9",
+            "v2.5.9",
+            "v2.4.9"
+        ]
+    },
+    {
+        "digest": "sha256:cb4b55a35cdc3cbfab0ebf43fe3fe25df01f2c4b75cff54f221e7bfb2c8b2617",
+        "name": "central-ebs",
+        "tags": [
+            "v7.1.1",
+            "v7.1.0"
+        ]
+    }
+]

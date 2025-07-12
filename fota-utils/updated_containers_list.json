@@ -1,0 +1,23 @@
+[
+    {
+        "central": [
+            "+central-acc",
+            "+central-bbs",
+            "+central-msn",
+            "+central-ebs"
+        ]
+    },
+    {
+        "front": [
+            "+front-abc",
+            "+front-abb",
+            "+front-cde"
+        ]
+    },
+    {
+        "rear": [
+            "+rear-sdf",
+            "+rear-xyz"
+        ]
+    }
+]

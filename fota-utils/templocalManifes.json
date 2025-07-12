@@ -1,0 +1,40 @@
+[
+    {
+        "architecture": "linux/arm64",
+        "description": "Update BBS Container",
+        "ecuid": "00",
+        "name": "central",
+        "state": "updated",
+        "version": "1.1.2"
+    },
+    {
+        "architecture": "linux/arm/v7",
+        "description": "update ABB container ",
+        "ecuid": "01",
+        "name": "front",
+        "state": "updated",
+        "version": "1.5.3"
+    },
+    {
+        "architecture": "linux/arm/v7",
+        "description": "Testing xyz container",
+        "ecuid": "02",
+        "name": "rear",
+        "state": "updated",
+        "version": "1.7.1"
+    },
+    {
+        "description": "update AFS bin Joker",
+        "ecuid": "11",
+        "name": "afs",
+        "state": "updated",
+        "version": "1.5.6"
+    },
+    {
+        "description": "update motorcontrol bin",
+        "ecuid": "12",
+        "name": "motorcontrol",
+        "state": "updated",
+        "version": "2.7.9"
+    }
+]
